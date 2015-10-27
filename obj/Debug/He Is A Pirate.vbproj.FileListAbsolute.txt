@@ -1,0 +1,11 @@
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\bin\Debug\He Is A Pirate.exe.config
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\bin\Debug\He Is A Pirate.exe
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\bin\Debug\He Is A Pirate.pdb
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\bin\Debug\He Is A Pirate.xml
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He Is A Pirate.vbprojResolveAssemblyReference.cache
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He_Is_A_Pirate.Form1.resources
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He_Is_A_Pirate.Resources.resources
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He Is A Pirate.vbproj.GenerateResource.Cache
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He Is A Pirate.exe
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He Is A Pirate.xml
+C:\Users\sondre\Documents\Visual Studio 2015\Projects\He Is A Pirate\He Is A Pirate\obj\Debug\He Is A Pirate.pdb
